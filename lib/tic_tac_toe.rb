@@ -108,7 +108,7 @@ class TicTacToe
     elsif winner === "O"
       return "Congratulations O!"
     else
-      nil
+      "Cat's Game!"
     end
   end
 end

@@ -104,7 +104,7 @@ class TicTacToe
       turn
     end
     if winner === "X"
-      puts "Congratulations X!"
+      return "Congratulations X!"
     elsif winner === "O"
       puts "Congratulations O!"
     else

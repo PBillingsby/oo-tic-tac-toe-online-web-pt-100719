@@ -3,7 +3,6 @@ require 'pry'
 class TicTacToe
   def initialize
     @board = Array.new(9, " ")
-    play
   end
   
   def display_board

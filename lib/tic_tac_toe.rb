@@ -113,4 +113,4 @@ class TicTacToe
   end
 end
 
-TicTacToe.play
+TicTacToe.new.play
